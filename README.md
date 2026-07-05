@@ -1,5 +1,41 @@
 # 💫 About Me:
-Your Superpowers (Technical Skills):<br><br><br>Languages: You have intermediate proficiency in Java, Python, and HTML & CSS, with basic knowledge of JavaScript. <br><br><br>Frameworks: You are at an intermediate level with the Django framework. <br><br><br>Tools & Software: You have basic skills in Microsoft Office, Canva, and CapCut. <br><br>Your Quest (What you're passionate about):<br><br>Your CV states you have a "strong passion for computer programming and technology." <br><br><br>You are driven to solve problems, leveraging a "solid foundation in mathematics and science." <br><br>You are "eager to contribute to innovative projects while expanding technical expertise."  This suggests an interest in practical, forward-thinking work where you can also grow your skills.<br><br><br>Your Current Adventure (What you're up to now):<br><br>You are currently a <br><br>Bachelor of Software Engineering student at UniKL MIIT, with an expected graduation in September 2027. <br><br><br><br>You recently completed a Python Programming Bootcamp with NOVA academy (February - June 2025). <br><br>Given your student status and eagerness to contribute, your goal is likely to find internships or entry-level opportunities to apply and expand your skills.<br><br>Your Vibe (Personality):<br><br>Your profile comes across as highly motivated, analytical, and eager to learn. Words like "strong passion" and "eager to contribute" point to a proactive and enthusiastic personality. <br><br><br><br>Your leadership roles, such as Vice President of the Pétanque Club and President of the BM Club, show that you are responsible and take initiative. 
+# Hi, I'm Azizi! 👋
+
+I am a Software Engineering undergraduate at **Universiti Kuala Lumpur (MIIT)** with a passion for building scalable solutions and exploring the intersection of AI, Blockchain, and business logic. 
+
+I’m currently focused on transitioning from academic theory to impactful, real-world software development. Whether it’s automating business processes or experimenting with decentralized technologies, I love turning complex problems into clean, functional code.
+
+---
+
+### 🚀 Tech Stack
+*   **Languages:** Python (Intermediate), Java, HTML5, CSS3, JavaScript (Basic).
+*   **Frameworks:** Django.
+*   **Tools:** Git, Packet Tracer, Microsoft Office.
+*   **Creative:** Canva, CapCut (Content creation & documentation).
+
+---
+
+### 🛠 Projects & Adventures
+*   **[Project Name/UniPact]:** A student-led talent analysis platform utilizing blockchain for verified credentials. (Currently in prototype/market validation phase).
+*   **[Cyber-Fiqh]:** AI-driven Shariah-compliant product generation system. (Top 10 at Hackathon).
+*   **Tuition ERP:** Developing a custom ERP system to streamline student data, scheduling, and finance for local institutes.
+
+---
+
+### 🎓 Beyond the Code
+*   **Leadership:** President of the Pétanque Club. I thrive in team environments and enjoy taking initiative to organize and lead.
+*   **Continuous Learning:** Always sharpening my skills—recently completed a Python Programming Bootcamp at NOVA Academy (2025).
+*   **Interests:** Exploring the potential of Web3, AI agents, and efficient automation systems.
+
+---
+
+### 📬 Let's Connect
+*   **LinkedIn:** www.linkedin.com/in/azizi-sahari-769261213
+*   **Email:** azizisahari79@gmial.com
+*   *Currently seeking internship opportunities for [Year] where I can contribute to innovative software projects.*
+
+---
+*Driven by curiosity, built with logic.*
 
 
 # 💻 Tech Stack:
